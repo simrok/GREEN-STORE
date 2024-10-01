@@ -128,3 +128,16 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# React Native specific files
+*.xcworkspace/
+ios/Pods/
+
+# Build directories
+android/.gradle/
+android/app/build/
+ios/build/
+
+# Miscellaneous
+*.lock
+.DS_Store

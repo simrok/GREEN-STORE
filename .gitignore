@@ -141,3 +141,6 @@ ios/build/
 # Miscellaneous
 *.lock
 .DS_Store
+
+# Ignore AMD cache files
+AppData/Local/AMD/DxCache/
